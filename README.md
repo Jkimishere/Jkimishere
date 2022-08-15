@@ -8,17 +8,11 @@ Student Front-End Developer
 =================================================================================
 
 
-I love 💙
+I use 💻
 
 - JavaScript
 - TypeScript
 - React
-
-I hate 💔
-
-- C#
-- Python
-- Back-End
 
 I know ✔
 
