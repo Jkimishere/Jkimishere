@@ -1,9 +1,7 @@
 
 Name: Jkim
 
-Age: Teenager
-
-Student Front-End Developer
+Student Developer
 
 =================================================================================
 
@@ -13,6 +11,7 @@ I use 💻
 - JavaScript
 - TypeScript
 - React
+- Python
 
 I know ✔
 
