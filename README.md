@@ -1,30 +1,24 @@
 
 Name: Jkim
 
-Student Developer
+Learning Machine Learning
 
 =================================================================================
 
 
 I use 💻
 
-- JavaScript
-- TypeScript
-- React
-- Python
+- PyTorch
+- TensorFlow
 
-I know ✔
+I am learning
 
-- JavaScript
-- TypeScript
-- C#
-- Python
-- CSS
-- HTML
+- PyTorch
 
-I am (kinda) good at 👍
+I want to learn
 
-- JavaScript
-- CSS
+- Jax
+- Flux.jl
+
 
 
