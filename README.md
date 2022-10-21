@@ -11,11 +11,11 @@ I use 💻
 - PyTorch
 - TensorFlow
 
-I am learning
+I am learning 💡
 
 - PyTorch
 
-I want to learn
+I want to learn 🤔
 
 - Jax
 - Flux.jl
