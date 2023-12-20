@@ -10,10 +10,11 @@
 
 ## 💡 Currently Learning
 
-- PyTorch
+- None
 
 ## 🤔 Next on My Learning List
 
+- Data structures & Algorithms
 - Jax
 - Flux.jl
 
