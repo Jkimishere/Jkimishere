@@ -1,25 +1,22 @@
+# Hi, I'm Jkim! 🚀
 
-Name: Jkim
+🌱 Learning Machine Learning  
+🎓 Accepted to LG AI camp
 
-Learning Machine Learning
-
-=================================================================================
-
-
-I use 💻
+## 💻 Technologies I Use
 
 - PyTorch
 - TensorFlow
 
-I am learning 💡
+## 💡 Currently Learning
 
 - PyTorch
 
-I want to learn 🤔
+## 🤔 Next on My Learning List
 
 - Jax
 - Flux.jl
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jkimishere)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jkimishere)](https://github.com/anuraghazra/github-readme-stats)
