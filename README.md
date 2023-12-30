@@ -10,11 +10,10 @@
 
 ## 💡 Currently Learning
 
-- None
+- Data structures & Algorithms
 
 ## 🤔 Next on My Learning List
 
-- Data structures & Algorithms
 - Jax
 - Flux.jl
 
